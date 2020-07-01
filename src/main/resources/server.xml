@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <rootDir>\src\root_ftp</rootDir>
+
+    <users>
+        <user>
+            <username>root</username>
+            <password>123456</password>
+        </user>
+        <user>
+            <username>seehin</username>
+            <password>654321</password>
+        </user>
+    </users>
+</root>
